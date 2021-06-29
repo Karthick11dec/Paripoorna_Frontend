@@ -101,7 +101,7 @@ function Form() {
     //Add and update access
     const Add = (id) => { //Add access
 
-        if (Name !== "" && Pro !== "" &&
+        if (Name !== "" &&
             Code !== "" && Mobile !== "" &&
             Email !== "" && state.valueState !== "" &&
             dob !== "" && Value !== "") {
