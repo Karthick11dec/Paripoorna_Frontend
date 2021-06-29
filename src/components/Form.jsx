@@ -195,6 +195,7 @@ function Form() {
 
     return (
         <Fragment>
+            <div className="register">Registration</div>
             <div className="container form-border" style={{ height: "65vh" }}>
                 <div className="row p-4 center">
                     <div className="col-6">

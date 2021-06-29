@@ -4,6 +4,15 @@
 
 /* form css */
 
+.register{
+    position: absolute;
+    top: 33px;
+    left: 10vw;
+    box-sizing: border-box;
+    background-color: white;
+    padding: 0px 2px;
+}
+
 .form-border{
     border: 2px solid black;
     margin-top: 8vh;
